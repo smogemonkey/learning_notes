@@ -1,0 +1,23 @@
+# Obsidian workspace/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/.trash/
+.trash/
+
+# Obsidian plugins - bỏ qua lúc đầu cho sạch
+.obsidian/plugins/
+.obsidian/community-plugins.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets / private
+.env
+.env.*
+*.key
+*.pem
